@@ -1,3 +1,2 @@
 #!/bin/bash
-a=$(sed 's/ /+/g' <<< "$*")
-xdg-open http://www.google.com/search?q=$a
+xdg-open https://www.$1.com/
