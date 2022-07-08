@@ -1,0 +1,1 @@
+g++ *.cpp -o $1 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
